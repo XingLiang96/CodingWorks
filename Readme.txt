@@ -1,4 +1,4 @@
-These three files are my coding works.
+These files are my coding works.
 
 The MATLAB codes are the core algorithm of damage detection in my published paper shown in my CV: A two-step method for delamination detection in composite laminates using experience-based learning algorithm.
 
